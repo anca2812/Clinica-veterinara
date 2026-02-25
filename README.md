@@ -45,6 +45,7 @@ pentru testarea unui demo se va accesa clasa Main, unde se va implementa Clinica
 ## Cerințe de sistem 
 
 Necesită: JDK
+
 Proiect realizat cu: IntelliJ IDEA versiunea 2025.3.1.1
 
 ## Structura proiectului
